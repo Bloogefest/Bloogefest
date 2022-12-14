@@ -1,1 +1,1 @@
-Russia forever
+🇷🇺
