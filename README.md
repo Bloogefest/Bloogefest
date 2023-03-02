@@ -1,0 +1,2 @@
+![](https://github-readme-stats.vercel.app/api?username=bloogefest&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru)
+![](https://streak-stats.demolab.com?user=Bloogefest&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000)
