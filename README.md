@@ -1,7 +1,19 @@
-<div style="display: inline">
-    <img height=270 align="center" src="https://github-readme-stats.vercel.app/api?username=bloogefest&show_icons=true&show=reviews,discussions_started,discussions_answered&theme=dark&bg_color=00000000&hide_border=true&locale=ru&include_all_commits=true&number_format=long&custom_title=Статистика%20пользователя"/>
-    <img height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloogefest&langs_count=20&theme=dark&bg_color=00000000&hide_border=true&layout=compact&locale=ru&custom_title=Используемые%20языки"/>
+<h1 align="center">Hi, I'm George! :rocket:</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/18-FFFFFF?style=for-the-badge&label=AGE&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/5-FFFFFF?style=for-the-badge&label=SENIORITY&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/MOSCOW-FFFFFF?style=for-the-badge&label=CITY&labelColor=000000"/>
 </div>
-<div style="display: inline">
-    <img src="https://komarev.com/ghpvc/?username=bloogefest&style=for-the-badge&color=grey&label=Количество%20просмотров">
+
+<div align="center">
+    <img src="https://img.shields.io/badge/STUDENT-FFFFFF?style=for-the-badge&label=MIREA%20%E2%80%94%20RUSSIAN%20TECHNOLOGICAL%20UNIVERSITY&labelColor=000000"/>
+</div>
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Bloogefest&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"/>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bloogefest&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </div>
