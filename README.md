@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Bloogefest&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"/>
+    <img src="https://github-readme-streak-stats-alpha-virid.vercel.app?user=Bloogefest&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"/>
 </div>
 
 <div align="center">
