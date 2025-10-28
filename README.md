@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm George! :rocket:</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/18-FFFFFF?style=for-the-badge&label=AGE&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/19-FFFFFF?style=for-the-badge&label=AGE&labelColor=000000"/>
     <img src="https://img.shields.io/badge/5-FFFFFF?style=for-the-badge&label=SENIORITY&labelColor=000000"/>
     <img src="https://img.shields.io/badge/MOSCOW-FFFFFF?style=for-the-badge&label=CITY&labelColor=000000"/>
 </div>
